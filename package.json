@@ -1,6 +1,6 @@
 {
-  "name": "modulo-07",
-  "version": "1.0.0",
+  "name": "reactjs-quickstart",
+  "version": "0.0.2",
   "main": "index.js",
   "author": "Alan Rios <alan.jones.rios@gmail.com>",
   "license": "MIT",
@@ -56,5 +56,12 @@
     "eslint-plugin-react": "^7.17.0",
     "eslint-plugin-react-hooks": "^1.7.0",
     "prettier": "^1.19.1"
-  }
+  },
+  "description": "Projeto com recursos mais comuns já configurados e prontos para um início rápido.",
+  "keywords": [
+    "reactjs",
+    "boilerplate",
+    "quickstart"
+  ],
+  "homepage": "https://github.com/alanjonesrios/ReactJS-QuickStart"
 }
